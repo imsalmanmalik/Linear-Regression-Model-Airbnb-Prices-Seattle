@@ -13,6 +13,7 @@ The project beautifully displays an interactive Choropleth Map.
 
 ## Conclusion
 The linear regression model provides a good fit to the data, and the feature engineering and visualization techniques used in this project provide valuable insights into the pricing of airbnb properties in Seattle. This project can be used as a starting point for further analysis of the airbnb data, and the insights can be used to inform decision-making for airbnb property owners and managers in Seattle.
+Initial setps of Machine Learning were conducted towards the end of the project by creating dummy variables, one-hot encoding & train and test split.
 
 ### Contributing
 If you would like to contribute to this project, please fork the repository and make your changes. Once you have made your changes, you can submit a pull request for review.
