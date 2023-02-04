@@ -8,7 +8,8 @@ The model uses a combination of categorical and numerical features to make predi
 The data is manipulated and cleaned to handle missing values, and outliers are identified and treated. Exploratory data analysis is performed to get a better understanding of the data and identify any patterns or relationships between the features and the target variable.
 
 ## Visualization
-The model uses Dash to create interactive choropleth maps to visualize the relationship between the target variable and the different features. These maps provide a quick and easy way to see the distribution of airbnb prices across different neighborhoods in Seattle.
+The model uses Dash to create interactive choropleth maps to visualize the relationship between the target variable and the different features. These maps provide a quick and easy way to see the distribution of airbnb prices across different neighborhoods in Seattle.  
+The project beautifully displays an interactive Choropleth Map.
 
 ## Conclusion
 The linear regression model provides a good fit to the data, and the feature engineering and visualization techniques used in this project provide valuable insights into the pricing of airbnb properties in Seattle. This project can be used as a starting point for further analysis of the airbnb data, and the insights can be used to inform decision-making for airbnb property owners and managers in Seattle.
